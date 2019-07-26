@@ -36,7 +36,7 @@
 
 <script>
 
-    import {API_WEB_findPageSProduct} from "@/shop/config/api/getData";
+    import {API_WEB_findPageSProduct} from "@/config/api/getData";
 
     export default {
         name: "GoodsList",
