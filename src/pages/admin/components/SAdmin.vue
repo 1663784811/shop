@@ -57,14 +57,14 @@
         updateFieldDataJson,
         TableHeaderJson,
         searchWhereJson
-    } from "@/shop/config/jsonObj/sAdmin";
+    } from "@/config/jsonObj/sAdmin";
     import {
         API_findAllSAdmin,
         API_addSAdmin,
         API_updateSAdmin,
         API_findIdSAdmin,
         API_delSAdmin
-    } from "@/shop/config/api/sAdmin";
+    } from "@/config/api/sAdmin";
     import {
         CREATETREESTRUCTURE,
         TREE2ARRAY

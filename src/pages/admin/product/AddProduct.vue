@@ -228,12 +228,12 @@
 <script>
     import E from 'wangeditor';
     import SelectPhoto from '../resources/SelectPhoto';
-    import {API_Admin_addProduct} from '@/shop/config/api/getData';
+    import {API_Admin_addProduct} from '@/config/api/getData';
     import PanelListCheckbox from '@/components/common/PanelListCheckbox';
     import PanelListInput from '@/components/common/PanelListInput';
     import {
         API_findPageSClassification
-    } from "@/shop/config/api/sClassification";
+    } from "@/config/api/sClassification";
 
     export default {
         name: "AddProduct",

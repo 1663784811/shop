@@ -101,18 +101,18 @@
         updateFieldDataJson,
         TableHeaderJson,
         searchWhereJson
-    } from "@/shop/config/jsonObj/sRole";
+    } from "@/config/jsonObj/sRole";
     import {
         API_findPageSRole,
         API_delSRole,
         API_saveSRole
-    } from "@/shop/config/api/sRole";
+    } from "@/config/api/sRole";
     import {
         API_findAllSPower
-    } from "@/shop/config/api/sPower";
+    } from "@/config/api/sPower";
     import {
         API_fkSRolePowerFindSPower
-    } from "@/shop/config/api/sRolePower";
+    } from "@/config/api/sRolePower";
     import {
         API_updateTRolePowerArray,
     } from "@/config/api/tRolePower";

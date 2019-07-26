@@ -48,14 +48,14 @@
         TitleJson,
         addFieldDataJson,
         updateFieldDataJson,
-    } from "@/shop/config/jsonObj/sAddress";
+    } from "@/config/jsonObj/sAddress";
     import BaseWindow from '@/components/admin/BaseWindow';
     import {
         API_WEB_myAddress,
         API_WEB_addMyAddress,
         API_WEB_delMyAddress,
         API_WEB_updateMyAddress
-    } from "@/shop/config/api/getData";
+    } from "@/config/api/getData";
 
     export default {
         name: "Address",

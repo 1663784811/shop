@@ -83,11 +83,11 @@
         API_WEB_myAddress,
         API_WEB_createOrder,
         API_WEB_addMyAddress
-    } from "@/shop/config/api/getData";
+    } from "@/config/api/getData";
     import {
         TitleJson,
         addFieldDataJson
-    } from "@/shop/config/jsonObj/sAddress";
+    } from "@/config/jsonObj/sAddress";
 
     export default {
         name: "Settlement",

@@ -53,7 +53,7 @@
 <script>
     import {
         API_WEB_findMyOrder
-    } from "@/shop/config/api/getData";
+    } from "@/config/api/getData";
 
     export default {
         name: "OrderContainer",

@@ -34,7 +34,7 @@
     import GoodsList from "./components/GoodsList";
     import {
         API_WEB_findClassification
-    } from "@/shop/config/api/getData";
+    } from "@/config/api/getData";
 
     export default {
         name: "ProductList",

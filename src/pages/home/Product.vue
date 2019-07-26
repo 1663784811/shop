@@ -151,7 +151,7 @@
     import {
         API_WEB_findIdSProduct,
         API_WEB_addCar
-    } from "@/shop/config/api/getData";
+    } from "@/config/api/getData";
     import {
         IS_ARRAYHAVE,
         ENCODEVALUE,

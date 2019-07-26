@@ -94,8 +94,8 @@
 
 <script>
     import SimpleHeader from "./components/SimpleHeader.vue"
-    import {API_REGISTER, API_LOGIN} from "@/shop/config/api/home";
-    import {_token_admin, _userinfo_admin} from "@/shop/config/config";
+    import {API_REGISTER, API_LOGIN} from "@/config/api/home";
+    import {_token_admin, _userinfo_admin} from "@/config/config";
     import {
         SETCOOKIE
     } from '@/assets/common/js/global';

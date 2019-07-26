@@ -70,13 +70,13 @@
         updateFieldDataJson,
         TableHeaderJson,
         searchWhereJson
-    } from "@/shop/config/jsonObj/sClassification";
+    } from "@/config/jsonObj/sClassification";
 
     import {
         API_findPageSClassification,
         API_delSClassification,
         API_saveSClassification
-    } from "@/shop/config/api/sClassification";
+    } from "@/config/api/sClassification";
     import {
         CREATETREESTRUCTURE,
         TREE2ARRAY

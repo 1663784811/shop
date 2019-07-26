@@ -57,7 +57,7 @@
         updateFieldDataJson,
         TableHeaderJson,
         searchWhereJson
-    } from "@/shop/config/jsonObj/sUser";
+    } from "@/config/jsonObj/sUser";
 
     import '@/assets/admin/css/adminPage.css';
     import {
@@ -66,7 +66,7 @@
         API_updateSUser,
         API_findIdSUser,
         API_delSUser
-    } from "@/shop/config/api/sUser";
+    } from "@/config/api/sUser";
     import {
         CREATETREESTRUCTURE,
         TREE2ARRAY

@@ -57,7 +57,7 @@
         updateFieldDataJson,
         TableHeaderJson,
         searchWhereJson
-    } from "@/shop/config/jsonObj/sProduct";
+    } from "@/config/jsonObj/sProduct";
 
     import '@/assets/admin/css/adminPage.css';
     import {
@@ -66,7 +66,7 @@
         API_updateSProduct,
         API_findIdSProduct,
         API_delSProduct
-    } from "@/shop/config/api/sProduct";
+    } from "@/config/api/sProduct";
     import {
         CREATETREESTRUCTURE,
         TREE2ARRAY

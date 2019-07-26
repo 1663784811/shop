@@ -33,7 +33,7 @@
 
 <script>
     import '@/assets/admin/css/adminPage.css';
-    import {registerAdmin} from '@/shop/config/api/getData';
+    import {registerAdmin} from '@/config/api/getData';
     import {SETCOOKIE} from '@/assets/common/js/global.js';
 
     export default {

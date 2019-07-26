@@ -66,13 +66,13 @@
         updateFieldDataJson,
         TableHeaderJson,
         searchWhereJson
-    } from "@/shop/config/jsonObj/sBanner";
+    } from "@/config/jsonObj/sBanner";
 
     import {
         API_findPageSBanner,
         API_delSBanner,
         API_saveSBanner
-    } from "@/shop/config/api/sBanner";
+    } from "@/config/api/sBanner";
 
 
     export default {

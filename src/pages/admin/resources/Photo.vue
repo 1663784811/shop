@@ -84,7 +84,7 @@
         API_uploadFile,
         API_saveSSourcephoto,
         API_delSSourcephoto
-    } from "@/shop/config/api/sSourcephoto";
+    } from "@/config/api/sSourcephoto";
 
     export default {
         name: "Photo",

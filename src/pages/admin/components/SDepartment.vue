@@ -66,13 +66,13 @@
         updateFieldDataJson,
         TableHeaderJson,
         searchWhereJson
-    } from "@/shop/config/jsonObj/sDepartment";
+    } from "@/config/jsonObj/sDepartment";
 
     import {
         API_findPageSDepartment,
         API_delSDepartment,
         API_saveSDepartment
-    } from "@/shop/config/api/sDepartment";
+    } from "@/config/api/sDepartment";
 
 
     export default {

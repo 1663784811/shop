@@ -70,13 +70,13 @@
         updateFieldDataJson,
         TableHeaderJson,
         searchWhereJson
-    } from "@/shop/config/jsonObj/sPower";
+    } from "@/config/jsonObj/sPower";
 
     import {
         API_findPageSPower,
         API_delSPower,
         API_saveSPower
-    } from "@/shop/config/api/sPower";
+    } from "@/config/api/sPower";
     import {
         CREATETREESTRUCTURE,
         TREE2ARRAY

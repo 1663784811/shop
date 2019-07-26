@@ -23,9 +23,9 @@
 
 <script>
     import '@/assets/admin/css/adminPage.css';
-    import {loginAdmin} from '@/shop/config/api/getData';
+    import {loginAdmin} from '@/config/api/getData';
     import {SETCOOKIE} from '@/assets/common/js/global.js';
-    import {_token_admin, _userinfo_admin} from '@/shop/config/config';
+    import {_token_admin, _userinfo_admin} from '@/config/config';
 
     export default {
         name: "Login",

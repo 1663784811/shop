@@ -70,13 +70,13 @@
         updateFieldDataJson,
         TableHeaderJson,
         searchWhereJson
-    } from "@/shop/config/jsonObj/sNav";
+    } from "@/config/jsonObj/sNav";
 
     import {
         API_findPageSNav,
         API_delSNav,
         API_saveSNav
-    } from "@/shop/config/api/sNav";
+    } from "@/config/api/sNav";
     import {
         CREATETREESTRUCTURE,
         TREE2ARRAY

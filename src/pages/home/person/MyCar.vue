@@ -62,7 +62,7 @@
     import {
         API_WEB_findMyCar,
         API_WEB_logoutAdmin,
-    } from "@/shop/config/api/getData";
+    } from "@/config/api/getData";
     import {
         SETCOOKIE,
         GETCOOKIE,
