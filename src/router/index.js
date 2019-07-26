@@ -1,5 +1,5 @@
-import Vue from 'vue/types'
-import VueRouter from 'vue-router/types'
+import Vue from 'vue'
+import VueRouter from 'vue-router'
 import shop from './shop';
 import {GETCOOKIE} from "@/assets/common/js/global";
 import {_token_admin as shopToken} from "@/config/config";

@@ -1,4 +1,4 @@
-import Vue from 'vue/types';
+import Vue from 'vue';
 import Vuex from 'vuex';
 import admin from './modules/admin'
 
