@@ -85,7 +85,7 @@
                 <div class="headerLeft f_left">
                     <div class="logo f_left">
                         <router-link to="/shop">
-                            <img class="logoImg" src="~@/assets/shop/img/logo.png" alt="">
+                            <img class="logoImg" src="~@/assets/img/logo.png" alt="">
                         </router-link>
                     </div>
                     <div class="nav f_left">
@@ -116,7 +116,7 @@
     import {
         API_WEB_findMyCar,
         API_WEB_logoutAdmin,
-    } from "@/shop/config/api/getData";
+    } from "@/config/api/getData";
     import {
         SETCOOKIE,
         GETCOOKIE,
