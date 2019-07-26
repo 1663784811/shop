@@ -1,5 +1,5 @@
 import {EXPLAINFIELD} from "@/assets/common/js/global.js";
-import {_BaseUrl} from "@/shop/config/config";
+import {_BaseUrl} from "@/config/config";
 
 let json ={
   "title": "菜单",

@@ -68,9 +68,9 @@
 
 <script>
     import {SETCOOKIE} from '@/assets/common/js/global.js';
-    import {logoutAdmin} from '@/shop/config/api/getData';
-    import {_token_admin} from '@/shop/config/config';
-    import {GETUSERINFO} from '@/shop/config/webinfo';
+    import {logoutAdmin} from '@/config/api/getData';
+    import {_token_admin} from '@/config/config';
+    import {GETUSERINFO} from '@/config/webinfo';
 
     export default {
         name: "AdminHeaderRight",

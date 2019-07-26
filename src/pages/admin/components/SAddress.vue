@@ -57,7 +57,7 @@
         updateFieldDataJson,
         TableHeaderJson,
         searchWhereJson
-    } from "@/shop/config/jsonObj/sAddress";
+    } from "@/config/jsonObj/sAddress";
 
     import '@/assets/admin/css/adminPage.css';
     import {
@@ -66,7 +66,7 @@
         API_updateSAddress,
         API_findIdSAddress,
         API_delSAddress
-    } from "@/shop/config/api/sAddress";
+    } from "@/config/api/sAddress";
     import {
         CREATETREESTRUCTURE,
         TREE2ARRAY

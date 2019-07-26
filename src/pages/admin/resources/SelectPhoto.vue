@@ -36,7 +36,7 @@
 <script>
     import {
         API_findPageSSourcephoto
-    } from "@/shop/config/api/sSourcephoto";
+    } from "@/config/api/sSourcephoto";
 
     export default {
         name: "SelectPhoto",
